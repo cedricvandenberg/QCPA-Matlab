@@ -148,6 +148,9 @@ rel_MnHueDiff:        'Relative Mean Hue Difference' between an animal and backg
 
 I have attached three seperate examples of input and output data for the user to play around with. All are nudibranch molluscs photographed against their natural backgrounds. The cone catch quanta have been modelled according to a natural 5m depth light spectrum (slightly greenish) and tri-chromatic triggerfish vision with the double cone as the luminance channel using the MICA toolbox. by Jolyon Troscianko. 
 
+# Using QCPA on a 4K screen
+
+QCPA runs into scaling issues on 4k screens. One solution is to change the screen resolution. However, I have been able to fix these issues and a 4K version is available on request.
 
 
 
