@@ -144,7 +144,9 @@ MnHueDiff:            'Mean Hue Difference' between an animal and background.
 
 rel_MnHueDiff:        'Relative Mean Hue Difference' between an animal and background in %.
 
+# Example Data
 
+I have attached two seperate examples of input and output data for the user to play around with. Both are nudibranch molluscs photographed against their natural backgrounds. The cone catch quanta have been modelled according to a natural 5m depth light spectrum (slightly greenish) and tri-chromatic triggerfish vision with the double cone as the luminance channel. 
 
 
 
