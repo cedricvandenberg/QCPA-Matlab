@@ -2,6 +2,10 @@
 
 Written and compiled by Cedric van den Berg. This version started development in Feb. 2016 after a series of adaptations and modifications of Matlab code written by Prof. John Endler following initial coding initiated in Feb. 2015 by Cedric van den Berg during his master thesis at UQ. QCPA is designed to use the output from the MICA toolbox to run Colour Adjacency Analysis & Visual Contrast Analysis (Endler 2012, Endler & Mielke 2005) via a dedicated graphical user interface. It also includes a simple approach to modelling spatial acuity via a median filter kernel as well as spatiochromatic plots in colour space. It has been adapted into JAVA in October 2018 as part of the MICA toolbox (Troscianko & Stevens 2015) and substantially expanded. This version of the QCPA only works with di- and tri-chromatic viewers but can easily be adaptapted to tetra-chromatic vision. Chromaticity and hue are calculated using circular metrics in a maxwell triangle where hue corresponds to the angle and chromaticity (Saturation) to the distance from the achromatic point.
 
+WHEN USING THIS SOFTWARE: Cite "Paper"
+
+WHEN USING ANY COMPONENTS OF THIS SOFTWARE: Cite the references provided in the code.
+
 Refs:
 
 Endler, J.A. & Mielke, P.P.W. 2005. Comparing entire colour patterns as birds see them. Biol. J. Linn. Soc. 86: 405–431
